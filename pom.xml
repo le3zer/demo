@@ -6,4 +6,7 @@
   <packaging>war</packaging>
   <name>demo</name>
   <description>this is a demo</description>
+  <dependencies>
+  
+  </dependencies>
 </project>
