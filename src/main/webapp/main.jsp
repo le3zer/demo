@@ -15,5 +15,7 @@ Hello, How are you?
 This text is repeated 10 times</br>
 <% }; %>
 <%= new java.util.Date()%>
+
+This is an implementation in master
 </body>
 </html>
